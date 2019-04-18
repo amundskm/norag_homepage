@@ -17,8 +17,9 @@ html, body{
 }
 
 .carousel{
-  margin-top: 4.2rem;
+  margin-top: 3em;
   margin-bottom: 1rem;
+  min-height: 100px;
 }
 
 .carousel-inner img{
